@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <mapping ext="dat" type="PATCH" />
+      <mapping pattern="TestMap" type="PLAIN_TEXT" />
+      <mapping pattern="Sweatshirt Scores" type="PLAIN_TEXT" />
+      <mapping pattern="Test" type="PLAIN_TEXT" />
+      <mapping pattern="" type="Properties" />
+      <mapping ext="fafsfa" type="Properties" />
+      <mapping ext="world" type="XML" />
+    </extensionMap>
+  </component>
+</application>
