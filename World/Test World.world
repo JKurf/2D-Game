@@ -1,0 +1,8 @@
+<world>
+    <title>Test World</title>
+    <id>0000</id>
+    <map>
+        <row>1 9 9 5</row>
+        <row>J A C K</row>
+    </map>
+</world>
